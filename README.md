@@ -19,4 +19,3 @@ It allows users to view live wait times, doctor availability, and book appointme
 
 ---
 
-## 📂 Project Structure
